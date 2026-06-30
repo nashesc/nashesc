@@ -1,4 +1,4 @@
-### Jonas — building Moment, a calm productivity app
+### Jonas - building Moment, a calm productivity app, and figuring out the hard parts (offline sync, billing, PWA) as I go.
 
 Currently focused on **Moment: One at a Time**, a mindful task app (PWA) 
 built with Next.js, Supabase, and Upstash Redis for rate limiting. 
