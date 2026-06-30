@@ -9,7 +9,8 @@ UI updates, subscription billing.
 Next.js (App Router) · JavaScript · TypeScript · Supabase · React · Tailwind
 
 **Currently learning / exploring:**
-Claude Code skill authoring, Paddle Billing integration, PWA architecture
+advanced TypeScript patterns, API/client architecture (Next.js + separate API server), 
+state sync patterns (React Context + optimistic updates), PWA architecture
 
 📌 Check the pinned repos below for what I'm actually shipping.
 
