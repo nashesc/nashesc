@@ -5,7 +5,7 @@ built with Next.js, Supabase, and Upstash Redis for rate limiting.
 Working through real product problems: offline-first sync, optimistic 
 UI updates, subscription billing.
 
-**Stack I use regularly:**
+**Tech Stack:**
 Next.js (App Router) · JavaScript · TypeScript · Supabase · React · Tailwind
 
 **Currently learning / exploring:**
