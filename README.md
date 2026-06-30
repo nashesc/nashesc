@@ -6,7 +6,7 @@ Working through real product problems: offline-first sync, optimistic
 UI updates, subscription billing.
 
 **Stack I use regularly:**
-Next.js (App Router) · TypeScript · Supabase · React · Tailwind
+Next.js (App Router) · JavaScript · TypeScript · Supabase · React · Tailwind
 
 **Currently learning / exploring:**
 Claude Code skill authoring, Paddle Billing integration, PWA architecture
