@@ -1,18 +1,9 @@
-### Jonas - building Moment, a calm productivity app, and figuring out the hard parts (offline sync, billing, PWA) as I go.
-
-Currently focused on **Moment: One at a Time**, a mindful task app (PWA) 
-built with Next.js, Supabase, and Upstash Redis for rate limiting. 
-Working through real product problems: offline-first sync, optimistic 
-UI updates, subscription billing.
-
 **Tech Stack:**
 Next.js (App Router) · JavaScript · TypeScript · Supabase · React · Tailwind
 
 **Currently learning / exploring:**
-advanced TypeScript patterns, API/client architecture (Next.js + separate API server), 
+MVC Architecture, TypeScript, API/client architecture (Next.js + separate API server), 
 state sync patterns (React Context + optimistic updates), PWA architecture
-
-📌 Check the pinned repos below for what I'm actually shipping.
 
 <!--
 **nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
