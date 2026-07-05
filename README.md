@@ -3,7 +3,7 @@ Next.js (App Router) · JavaScript · TypeScript · React · Tailwind · Next.js
 
 **Currently learning / exploring:**
 MVC Architecture, TypeScript, API/client architecture (Next.js + separate API server), 
-state sync patterns (React Context + optimistic updates), PWA architecture
+state sync patterns (React Context + optimistic updates), PWA architecture.
 
 <!--
 **nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
