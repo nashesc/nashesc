@@ -1,5 +1,5 @@
 **Tech Stack:**
-Next.js (App Router) · JavaScript · TypeScript · React · Tailwind · Next.js
+JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.js
 
 **Currently learning / exploring:**
 MVC Architecture, TypeScript, API/client architecture (Next.js + separate API server), 
