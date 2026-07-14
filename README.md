@@ -3,7 +3,7 @@ JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.j
 
 **Currently learning / exploring:**
 MVC Architecture, TypeScript, API/client architecture (Next.js + separate API server), 
-state sync patterns (React Context + optimistic updates), PWA architecture
+state sync patterns (React Context + optimistic updates), PWA architecture, Express.js, Node. js
 
 <!--
 **nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
