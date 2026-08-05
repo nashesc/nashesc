@@ -2,7 +2,7 @@
 JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.js · Supabase · Docker
 
 **Currently learning / exploring:**
-TypeScript, Express.js, Node.js, Docker, Postgres
+TypeScript, Express.js, Node.js, Docker, Postgres, Nest.js
 
 <!--
 **nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
