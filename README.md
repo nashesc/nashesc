@@ -1,5 +1,5 @@
 **Tech Stack:**
-JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.js · Supabase · Docker
+JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.js
 
 **Currently learning / exploring:**
 TypeScript, Express.js, Node.js, Docker, Postgres, Nest.js
