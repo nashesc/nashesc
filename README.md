@@ -1,3 +1,5 @@
+Currently taking the FlyRank AI Internship – Backend Engineer Track, building practical experience in backend development, API design, databases, and software engineering best practices.
+
 **Tech Stack:**
 JavaScript · TypeScript · React · Tailwind · Next.js · Express.js · Node.js
 
