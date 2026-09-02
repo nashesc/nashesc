@@ -5,7 +5,8 @@ LLM integration, and software engineering best practices.
 JavaScript · TypeScript · React · Vite · Tailwind · Next.js · Express.js · Node.js
 
 **Currently learning / exploring:**
-TypeScript, Express.js, Node.js, Docker, Postgres, Nest.js
+TypeScript, Express.js, Node.js, Docker, Postgres, Inngest, React Flow, Obsidian,
+Harness Enginnering
 
 <!--
 **nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
