@@ -16,10 +16,14 @@ Improving my AI workflow — learning more about AI context engineering and agen
 
 TypeScript · Express.js · Node.js · Docker · Postgres · Inngest · Context Engineering
 
+## 🐍 Watch me eat commits
+
+![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg)
+
 ## Stats
 
-![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact)
+![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact&v=2)
 
 ## Reach me
 
