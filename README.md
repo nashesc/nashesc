@@ -1,23 +1,30 @@
-Currently taking the FlyRank AI Internship – Backend Engineer Track, building practical experience in backend development, API design, databases, 
-LLM integration, and software engineering best practices.
+# Hi, I'm Nash 👋
 
-**Tech Stack:**
-JavaScript · TypeScript · React · Vite · Tailwind · Next.js · Express.js · Node.js · SQL
+IT student from the Philippines, currently focused on backend engineering.
 
-**Currently learning / exploring:**
-TypeScript, Express.js, Node.js, Docker, Postgres, Inngest, Obsidian, Context Enginnering
+## 🔭 Currently
 
-<!--
-**nashesc/nashesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FlyRank AI Internship — Backend Engineer Track**
+Building practical experience in backend development, API design, databases, LLM integration, and software engineering best practices.
 
-Here are some ideas to get you started:
+Alongside that, improving my AI workflow — learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:** Node.js · Express.js · SQL · Postgres
+**Frontend:** JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS
+**Exploring:** Docker · Inngest · Context Engineering
+
+## 🌱 Currently learning
+
+TypeScript · Express.js · Node.js · Docker · Postgres · Inngest · Context Engineering
+
+## 📊 Stats
+
+![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact)
+
+## 📫 Reach me
+
+- Email: <!-- your email -->
+- LinkedIn: <!-- your LinkedIn URL -->
