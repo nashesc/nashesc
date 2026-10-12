@@ -18,7 +18,7 @@ TypeScript · Express.js · Node.js · Docker · Postgres · Inngest · Context 
 
 ## 🐍 Watch me eat commits
 
-![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg)
+![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=2)
 
 ## Stats
 
