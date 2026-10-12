@@ -4,10 +4,7 @@ IT student from the Philippines, currently focused on backend engineering.
 
 ## 🔭 Currently
 
-**FlyRank AI Internship — Backend Engineer Track**
-Building practical experience in backend development, API design, databases, LLM integration, and software engineering best practices.
-
-Alongside that, improving my AI workflow — learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails).
+Improving my AI workflow — learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails), alongside backend development, API design, databases, and LLM integration.
 
 ## 🛠️ Tech Stack
 
