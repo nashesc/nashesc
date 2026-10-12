@@ -22,7 +22,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: nashesc
-          outputs: dist/snake.svg?palette=github-dark,snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b8ef1,#3576dd
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Deploy snake to output branch
         uses: peaceiris/actions-gh-pages@v4
