@@ -22,8 +22,8 @@ TypeScript · Express.js · Node.js · Docker · Postgres · Inngest · Context 
 
 ## Stats
 
-![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true&v=3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact&v=3)
+![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true&theme=github_dark&v=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact&theme=github_dark&v=3)
 
 ## Reach me
 
