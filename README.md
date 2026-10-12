@@ -8,8 +8,8 @@ Improving my AI workflow — learning more about AI context engineering and agen
 
 ## Tech Stack
 
-**Backend:** Node.js · Express.js · SQL · Postgres
-**Frontend:** JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS
+**Backend:** Node.js · Express.js · SQL · Postgres 
+**Frontend:** JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS 
 **Exploring:** Docker · Inngest · Context Engineering
 
 ## Currently learning
