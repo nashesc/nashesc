@@ -8,17 +8,13 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 ## Tech Stack
 
-**Backend:** Node.js · Express.js · SQL · Postgres  
-![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)  
-**Frontend:** JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS  
-![Frontend](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vite,tailwind&theme=dark)  
-**Exploring:** Docker · Inngest · Context Engineering  
-![Exploring](https://skillicons.dev/icons?i=docker&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgres,react,nextjs,vite,tailwind,docker&theme=dark" alt="Nash's tech stack" />
+  </a>
+</p>
 
-## Currently learning
-
-TypeScript · Express.js · Node.js · Docker · Postgres · Inngest · Context Engineering  
-![Learning](https://skillicons.dev/icons?i=typescript,express,nodejs,docker,postgres&theme=dark)
+**Exploring:** Docker · Inngest · Context Engineering
 
 ## 🐍 Watch me eat commits
 
