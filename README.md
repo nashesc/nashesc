@@ -11,7 +11,13 @@
 
 Improving my AI workflow; learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails), alongside backend development, API design, databases, and LLM integration.
 
+<div align="center">
+
 ## Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
+
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,11 +27,23 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 **Exploring:** Docker · Robot Framework · Context Engineering
 
-## 🐍 Watch me eat commits
+<div align="center">
+
+## Watch me eat commits
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
+
+</div>
 
 ![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=3)
 
+<div align="center">
+
 ## Stats
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
+
+</div>
 
 ![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashesc&show_icons=true&theme=github_dark&hide_border=true&v=4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashesc&layout=compact&theme=github_dark&hide_border=true&v=4)
@@ -33,9 +51,11 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 ![Nash's profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nashesc&theme=github_dark&v=5)
 
 
+<div align="center">
+
 ## Reach me
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasm.escanilla@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-escanilla-711b86417)
