@@ -27,14 +27,6 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 <div align="center">
 
-## 🐍 Watch me eat commits
-
-</div>
-
-![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=3)
-
-<div align="center">
-
 ## Stats
 
 </div>
@@ -44,6 +36,13 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 ![Nash's streak stats](https://streak-stats.demolab.com?user=nashesc&theme=github-dark-blue&hide_border=true&v=4)
 ![Nash's profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nashesc&theme=github_dark&v=5)
 
+<div align="center">
+
+## 🐍 Watch me eat commits
+
+</div>
+
+![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=3)
 
 <div align="center">
 
