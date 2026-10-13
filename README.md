@@ -15,8 +15,6 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 ## Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
-
 </div>
 
 <p align="center">
@@ -29,9 +27,7 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 <div align="center">
 
-## Watch me eat commits
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
+## 🐍 Watch me eat commits
 
 </div>
 
@@ -40,8 +36,6 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 <div align="center">
 
 ## Stats
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
 
 </div>
 
@@ -54,8 +48,6 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 <div align="center">
 
 ## Reach me
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&v=2" alt="" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasm.escanilla@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-escanilla-711b86417)
