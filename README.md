@@ -14,7 +14,7 @@ Improving my AI workflow; learning more about AI context engineering and agent h
   </a>
 </p>
 
-**Exploring:** Docker · Inngest · Context Engineering
+**Exploring:** Docker · Robot Framework · Context Engineering
 
 ## 🐍 Watch me eat commits
 
