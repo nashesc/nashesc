@@ -2,7 +2,7 @@
 
 # Hi, I'm Nash!
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Context+Engineering;AI+Workflows;Harness+Engineering;UVE;Still+Learning&v=3)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Context+Engineering;AI+Workflows;Harness+Engineering;UVE;Frontend+Engineering;Backend+Engineering;Still+Learning&v=4)](https://git.io/typing-svg)
 
 ![Philippines](https://img.shields.io/badge/Philippines-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
 ![Focus](https://img.shields.io/badge/Focus-Backend_engineering-0d1117?style=flat-square&logo=server&logoColor=58a6ff)
