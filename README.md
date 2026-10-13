@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nash
+# Hi, I'm Nash!
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Context+Engineering;AI+Workflows;Harness+Engineering;UVE;Still+Learning&v=3)](https://git.io/typing-svg)
 
