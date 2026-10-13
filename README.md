@@ -23,7 +23,7 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 
 ## 🐍 Watch me eat commits
 
-![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=2)
+![Contribution snake](https://raw.githubusercontent.com/nashesc/nashesc/output/snake.svg?v=3)
 
 ## Stats
 
