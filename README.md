@@ -9,9 +9,9 @@ Improving my AI workflow; learning more about AI context engineering and agent h
 ## Tech Stack
 
 **Backend:** Node.js · Express.js · SQL · Postgres  
-![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark)  
 **Frontend:** JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS  
-![Frontend](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vite,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vite,tailwind&theme=dark)  
 **Exploring:** Docker · Inngest · Context Engineering  
 ![Exploring](https://skillicons.dev/icons?i=docker&theme=dark)
 
