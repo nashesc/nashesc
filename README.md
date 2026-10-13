@@ -1,10 +1,16 @@
-# Hi, I'm Nash 
+<div align="center">
 
-IT student from the Philippines, currently focused on backend engineering.
+# Hi, I'm Nash 👋
 
-## Currently
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+engineer;AI+workflow+explorer;Context+engineering+learner&v=2)](https://git.io/typing-svg)
 
-Improving my AI workflow; learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails), alongside backend development, API design, databases, and LLM integration.
+![Philippines](https://img.shields.io/badge/Philippines-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
+![Focus](https://img.shields.io/badge/Focus-Backend_engineering-0d1117?style=flat-square&logo=server&logoColor=58a6ff)
+
+</div>
+
+- 🔭 Currently improving my AI workflow — context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails)
+- 🌱 Alongside backend development, API design, databases, and LLM integration
 
 ## Tech Stack
 
