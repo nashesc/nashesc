@@ -9,8 +9,7 @@
 
 </div>
 
-- 🔭 Currently improving my AI workflow — context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails)
-- 🌱 Alongside backend development, API design, databases, and LLM integration
+Improving my AI workflow; learning more about AI context engineering and agent harnesses (memory systems, planning pipelines, suppressed-reasoning guardrails), alongside backend development, API design, databases, and LLM integration.
 
 ## Tech Stack
 
